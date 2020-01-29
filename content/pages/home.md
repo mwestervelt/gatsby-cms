@@ -1,9 +1,10 @@
 ---
 template: HomePage
 slug: ''
-title: Test
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+title: Christian Kane
+featuredImage: >-
+  https://ucarecdn.com/cbef294d-769d-4551-9ea5-cdcaa64ea23f/-/preview/-/enhance/50/
+subtitle: A new voice in Pinellas County
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
@@ -22,9 +23,3 @@ View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-r
 * Blog searching and paging functionality
 * Seamless image and content sliders
 * Instagram feed integration
-
-## Get started
-
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
